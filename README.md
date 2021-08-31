@@ -7,6 +7,7 @@ BypassESU-v9-AIO for Windows 7 x64 &amp; x86
 
 ## Links to ISO-images with Extended Security Updates (BypassESU-v9-AIO installed) for download:  
 * https://disk.yandex.ru/d/8ObEoNQHG9wwrQ - Windows 7 Professional x64 with KB5005088 (10.08.2021) created 29.08.2021
+  * BypassESU-v9-AIO
   * WinRAR 5.90
   * 7-zip 19.00
   * Adobe Acrobat DC
@@ -16,6 +17,7 @@ BypassESU-v9-AIO for Windows 7 x64 &amp; x86
   * python-3.7.4
   * pywin32-224 for python 3.7
 * https://disk.yandex.ru/d/Xb4DnVehpAZi4A - Windows 7 Professional x32 with KB5005088 (10.08.2021) created 31.08.2021
+  * BypassESU-v9-AIO
   * WinRAR 6.02
   * 7-zip 19.00
   * Adobe Acrobat DC
@@ -27,5 +29,4 @@ BypassESU-v9-AIO for Windows 7 x64 &amp; x86
   * py-kms (https://github.com/SystemRage/py-kms)
   * Total Commander 8.01
   * Aida64NA
-  * BypassESU-v9-AIO
   * MiniTool Partition Wizard v12.0.0
