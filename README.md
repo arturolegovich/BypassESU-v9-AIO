@@ -32,7 +32,7 @@ BypassESU-v9-AIO for Windows 7 x64 &amp; x86
   * BypassESU-v9-AIO
   * WinRAR 6.02
   * 7-zip 19.00
-  * Adobe Acrobat Reader DC 2019.008.20071
+  * Adobe Acrobat Reader DC 2019.010.20098
   * Microsoft Office 2010 Professional (Word, Excel, PowerPoint)
   * Paint.NET 4.2.16
   * Notepad++ 8.1.4
