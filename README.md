@@ -28,12 +28,12 @@ BypassESU-v9-AIO for Windows 7 x64 &amp; x86
   * python-3.7.4
   * pywin32-224 for python 3.7
   * Microsoft .NET Framework 4.8
-* https://disk.yandex.ru/d/Xb4DnVehpAZi4A - Windows 7 Professional x32 with KB5005088 (10.08.2021) created 31.08.2021
+* https://disk.yandex.ru/d/t0QfznoFA1TMRA - Windows 7 Professional x32 with KB5005088 (10.08.2021) created 01.09.2021
   * BypassESU-v9-AIO
   * WinRAR 6.02
   * 7-zip 19.00
   * Adobe Acrobat Reader DC 2019.010.20098
-  * Microsoft Office 2010 Professional (Word, Excel, PowerPoint)
+  * Microsoft Office 2010 Professional with Service Pack 2 (Word, Excel, PowerPoint)
   * Paint.NET 4.2.16
   * Notepad++ 8.1.4
   * python-3.7.4
