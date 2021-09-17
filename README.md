@@ -16,8 +16,7 @@ BypassESU-v9-AIO for Windows 7 x64 &amp; x86
 * https://disk.yandex.ru/d/2JgRzAq6UG-ymg - clean Windows 7 Professional x86 with KB4539601 (31.01.2020) created 19.04.2020
 
 ### Links to ISO-images with Extended Security Updates (BypassESU-v9-AIO installed), drivers and software for download and install:  
-* https://disk.yandex.ru/d/8ObEoNQHG9wwrQ - Windows 7 Professional x64 with KB5005088 (10.08.2021) created 29.08.2021  
-**(Important: for x64 OS "C:\Users" folder has been moved to "D:\Users". Make sure you have or create a D: drive before installing)**
+* https://disk.yandex.ru/d/Yq86lCQPtldI7Q - Windows 7 Professional x64 with KB5005088 (10.08.2021) created 29.08.2021  
   * BypassESU-v9-AIO
   * WinRAR 5.90
   * 7-zip 19.00
