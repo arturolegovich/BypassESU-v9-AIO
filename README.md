@@ -2,7 +2,7 @@
 BypassESU-v9-AIO for Windows 7 x64 &amp; x86
 
 ### Links to ISO-images without Extended Security Updates for download and install:  
-* https://disk.yandex.ru/d/hDFN9aKsXtduOQ - Windows 7 Professional x64 with KB4539601 (31.01.2020) created 31.08.2020 
+* https://disk.yandex.ru/d/hDFN9aKsXtduOQ - Windows 7 Service Pack 1 Professional x64 with KB4539601 (31.01.2020) created 31.08.2020 
   * WinRAR 5.90
   * 7-zip 19.00
   * VirtualDub
@@ -13,10 +13,10 @@ BypassESU-v9-AIO for Windows 7 x64 &amp; x86
   * python-3.7.4
   * pywin32-224 for python 3.7
   * Microsoft .NET Framework 4.8
-* https://disk.yandex.ru/d/2JgRzAq6UG-ymg - clean Windows 7 Professional x86 with KB4539601 (31.01.2020) created 19.04.2020
+* https://disk.yandex.ru/d/2JgRzAq6UG-ymg - clean Windows 7 Service Pack 1 Professional x86 with KB4539601 (31.01.2020) created 19.04.2020
 
 ### Links to ISO-images with Extended Security Updates (BypassESU-v9-AIO installed), drivers and software for download and install:  
-* https://disk.yandex.ru/d/Yq86lCQPtldI7Q - Windows 7 Professional x64 with KB5005633 (14.09.2021) created 17.09.2021  
+* https://disk.yandex.ru/d/Yq86lCQPtldI7Q - Windows 7 Service Pack 1 Professional x64 with KB5005633 (14.09.2021) created 17.09.2021  
   * BypassESU-v9-AIO
   * WinRAR 6.02
   * 7-zip 19.00
@@ -28,7 +28,7 @@ BypassESU-v9-AIO for Windows 7 x64 &amp; x86
   * python-3.7.4
   * pywin32-224 for python 3.7
   * Microsoft .NET Framework 4.8
-* https://disk.yandex.ru/d/t0QfznoFA1TMRA - Windows 7 Professional x32 with KB5005088 (10.08.2021) created 01.09.2021
+* https://disk.yandex.ru/d/t0QfznoFA1TMRA - Windows 7 Service Pack 1 Professional x32 with KB5005088 (10.08.2021) created 01.09.2021
   * BypassESU-v9-AIO
   * WinRAR 6.02
   * 7-zip 19.00
