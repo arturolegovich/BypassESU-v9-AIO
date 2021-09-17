@@ -1,5 +1,5 @@
 # BypassESU-v9-AIO
-BypassESU-v9-AIO for Windows 7 x64 &amp; x86
+BypassESU-v9-AIO for Windows 7 Service Pack 1 x64 &amp; x86
 
 ### Links to ISO-images without Extended Security Updates for download and install:  
 * https://disk.yandex.ru/d/hDFN9aKsXtduOQ - Windows 7 Service Pack 1 Professional x64 with KB4539601 (31.01.2020) created 31.08.2020 
