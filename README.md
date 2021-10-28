@@ -9,7 +9,7 @@ BypassESU-v9-AIO for Windows 7 Service Pack 1 x64 &amp; x86
   * Adobe Acrobat DC
   * Paint.NET 4.2
   * Notepad++
-  * py-kms (https://github.com/SystemRage/py-kms)
+  * py-kms (https://github.com/Py-KMS-Organization/py-kms)
   * python-3.7.4
   * pywin32-224 for python 3.7
   * Microsoft .NET Framework 4.8
@@ -24,7 +24,7 @@ BypassESU-v9-AIO for Windows 7 Service Pack 1 x64 &amp; x86
   * Adobe Acrobat Reader DC 2019.010.20098
   * Paint.NET 4.2.16
   * Notepad++ 8.1.4
-  * py-kms (https://github.com/SystemRage/py-kms)
+  * py-kms (https://github.com/Py-KMS-Organization/py-kms)
   * python-3.7.4
   * pywin32-224 for python 3.7
   * Microsoft .NET Framework 4.8
@@ -38,7 +38,7 @@ BypassESU-v9-AIO for Windows 7 Service Pack 1 x64 &amp; x86
   * Notepad++ 8.1.4
   * python-3.7.4
   * pywin32-224 for python 3.7
-  * py-kms (https://github.com/SystemRage/py-kms)
+  * py-kms (https://github.com/Py-KMS-Organization/py-kms)
   * Total Commander 8.01
   * AIDA64 Network Audit 6.25.5400
   * MiniTool Partition Wizard 12.0.0
