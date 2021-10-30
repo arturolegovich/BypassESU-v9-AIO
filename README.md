@@ -18,7 +18,7 @@ BypassESU-v9-AIO for Windows 7 Service Pack 1 x64 &amp; x86
 ### Links to ISO-images with Extended Security Updates (BypassESU-v9-AIO installed), drivers and software for download and install:
 * https://disk.yandex.ru/d/OT_woop-0AUIGw - Windows 7 Service Pack 1 Professional x64 with KB5006743 (12.10.2021) created 30.10.2021
   * BypassESU-v9-AIO
-  * 7-zip 19.00 (replace WinRAR 6.02, removed)
+  * 7-zip 19.00 (replace WinRAR 6.02)
   * VirtualDub 1.1.0.4-AMD64
   * SumatraPDF 3.3.3 (replaced Adobe Acrobat Reader DC)
   * Double Commander 1.0.0 beta
