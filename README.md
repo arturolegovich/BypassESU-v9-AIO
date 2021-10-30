@@ -21,13 +21,14 @@ BypassESU-v9-AIO for Windows 7 Service Pack 1 x64 &amp; x86
   * 7-zip 19.00
   * VirtualDub 1.1.0.4-AMD64
   * SumatraPDF 3.3.3
+  * Double Commander 1.0.0 beta 
   * Paint.NET 4.2.16
   * Notepad++ 8.1.4
   * py-kms (https://github.com/Py-KMS-Organization/py-kms)
   * python-3.7.4
   * pywin32-224 for python 3.7
   * Microsoft .NET Framework 4.8
-  * Microsoft Office 2016 Professional with [Updates](https://support.microsoft.com/ru-ru/topic/%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B7%D0%B0-%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C-2021-%D0%B3-%D0%B4%D0%BB%D1%8F-microsoft-office-f235aa69-c71c-4e86-a80a-82382e588034) (Word, Excel, PowerPoint, Access)
+  * Microsoft Office 2016 Professional with [Updates](https://support.microsoft.com/ru-ru/topic/%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B7%D0%B0-%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C-2021-%D0%B3-%D0%B4%D0%BB%D1%8F-microsoft-office-f235aa69-c71c-4e86-a80a-82382e588034) configured with GPO (Word, Excel, PowerPoint, Access)
 * https://disk.yandex.ru/d/waJhyHN4OJM-9w - Windows 7 Service Pack 1 Professional x32 with KB5005633 (14.09.2021) created 18.09.2021
   * BypassESU-v9-AIO
   * WinRAR 6.02
