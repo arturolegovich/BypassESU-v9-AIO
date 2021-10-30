@@ -22,6 +22,7 @@ BypassESU-v9-AIO for Windows 7 Service Pack 1 x64 &amp; x86
   * VirtualDub 1.1.0.4-AMD64
   * SumatraPDF 3.3.3 (replaced Adobe Acrobat Reader DC)
   * Double Commander 1.0.0 beta
+  * AIDA64 Network Audit 6.25.5400
   * Paint.NET 4.2.16
   * Notepad++ 8.1.4
   * py-kms (https://github.com/Py-KMS-Organization/py-kms)
