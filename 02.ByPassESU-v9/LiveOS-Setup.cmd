@@ -58,15 +58,15 @@ PatchWU.cmd PatchWU.xml
 if not exist "%%~#" (set "_file=%%~nx#"&goto :E_DLL)
 )
 
-call :TIcmd 1>nul 2>nul
-whoami /USER | find /i "S-1-5-18" 1>nul && (
-goto :Begin
-) || (
-if defined _elv goto :E_TI
-net start TrustedInstaller 1>nul 2>nul
-1>nul 2>nul %xSU% /c cmd.exe /c ""!_bat!" -su" &exit /b
-)
-whoami /USER | find /i "S-1-5-18" 1>nul || goto :E_TI
+REM call :TIcmd 1>nul 2>nul
+REM whoami /USER | find /i "S-1-5-18" 1>nul && (
+REM goto :Begin
+REM ) || (
+REM if defined _elv goto :E_TI
+REM net start TrustedInstaller 1>nul 2>nul
+REM 1>nul 2>nul %xSU% /c cmd.exe /c ""!_bat!" -su" &exit /b
+REM )
+REM whoami /USER | find /i "S-1-5-18" 1>nul || goto :E_TI
 
 :Begin
 @cls
